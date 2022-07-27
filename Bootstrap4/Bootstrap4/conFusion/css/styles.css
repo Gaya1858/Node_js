@@ -33,3 +33,11 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+.card-header-yellow{
+    background-color: orange;
+}
+.btn-colorY{
+    background-color: orange;
+    color: black;
+    border-color: orange;
+}
